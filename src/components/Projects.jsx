@@ -20,10 +20,10 @@ const styles = {
 };
 
 const Projects = (props) => {
-  const theme = useContext(ThemeContext);
   const { header } = props;
   const [data, setData] = useState(null);
   const [showMore, setShowMore] = useState(false);
+  const { bsSecondaryVariant } = useContext(ThemeContext);
 
   useEffect(() => {
     fetch(endpoints.projects, {
@@ -53,7 +53,7 @@ const Projects = (props) => {
                 && (
                 <Button
                   style={styles.showMoreStyle}
-                  variant={theme.bsSecondaryVariant}
+                  variant={bsSecondaryVariant}
                   onClick={() => setShowMore(true)}
                 >
                   show more
