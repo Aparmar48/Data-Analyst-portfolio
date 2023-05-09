@@ -49,6 +49,6 @@
     "eslint-plugin-react-hooks": "^4.2.0"
   },
   "resolutions": {
-    "react-error-overlay": "6.0.9"
+    "react-error-overlay": "6.0.11"
   }
 }
