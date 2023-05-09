@@ -18,7 +18,7 @@ const styles = {
   },
   introImageContainer: {
     margin: 10,
-    justifyContent: 'center',
+    justifyContent: 'flex-end',
     alignItems: 'center',
     display: 'flex',
   },
