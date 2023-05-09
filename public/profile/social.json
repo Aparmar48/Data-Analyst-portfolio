@@ -2,19 +2,15 @@
     "social": [
         {
             "network" : "linkedin",
-            "href": "https://www.linkedin.com/in/vivekpat/"
+            "href": "https://www.linkedin.com/in/aparmar48/"
         },
         {
             "network" : "github",
-            "href": "https://github.com/vivek1999patel"
-        },
-        {
-            "network" : "twitter",
-            "href": "https://twitter.com/Vivek_1999"
+            "href": "https://github.com/Aparmar48"
         },
         {
             "network" : "email",
-            "href": "mailto:viveks11099p@gmail.com"
+            "href": "mailto:adityaparmar4899@gmail.com"
         }
     ]
 }

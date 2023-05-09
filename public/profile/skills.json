@@ -5,20 +5,28 @@
             "title": "Languages & Databases",
             "items" : [
                 {
-                    "icon": "images/skills/html.png",
-                    "title": "HTML5"
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
                 },
                 {
-                    "icon": "images/skills/css.png",
-                    "title": "CSS3"
+                    "icon": "images/skills/R.png",
+                    "title": "R"
+                },
+                {
+                    "icon": "images/skills/sql.png",
+                    "title": "SQL"
                 },
                 {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
                 },
                 {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
                 },
                 {
                     "icon": "images/skills/postgresql.png",
@@ -30,27 +38,35 @@
                 }
         ]},
         {
-            "title": "Frameworks & Technologies",
+            "title": "Data Visualization & Packages",
             "items" : [
                 {
-                    "icon": "images/skills/react.png",
-                    "title": "ReactJS"
+                    "icon": "images/skills/Tableau.png",
+                    "title": "Tableau"
                 },
                 {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "NodeJS"
+                    "icon": "images/skills/PowerBI.png",
+                    "title": "PowerBI"
                 },
                 {
-                    "icon": "images/skills/django.png",
-                    "title": "Django"
+                    "icon": "images/skills/matplotlib.png",
+                    "title": "Matplotlib"
                 },
                 {
-                    "icon": "images/skills/bootstrap.png",
-                    "title": "BootStrap"
+                    "icon": "images/skills/Plotly.png",
+                    "title": "Plotly"
                 },
                 {
-                    "icon": "images/skills/materializecss.png",
-                    "title": "Materialize"
+                    "icon": "images/skills/NumPy.png",
+                    "title": "NumPy"
+                },
+                {
+                    "icon": "images/skills/pandas.png",
+                    "title": "Pandas"
+                },
+                {
+                    "icon": "images/skills/SciPy.png",
+                    "title": "SciPy"
                 }
             ]
         },
@@ -66,16 +82,16 @@
                     "title": "Git"
                 },
                 {
-                    "icon": "images/skills/heroku.png",
-                    "title": "Heroku"
+                    "icon": "images/skills/pgadmin4.png",
+                    "title": "pgAdmin 4"
                 },
                 {
-                    "icon": "images/skills/firebase.png",
-                    "title": "Firebase"
+                    "icon": "images/skills/Jupyternote.png",
+                    "title": "Jupyter Notebook"
                 },
                 {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
+                    "icon": "images/skills/excel.png",
+                    "title": "Excel"
                 }
             ]
     }

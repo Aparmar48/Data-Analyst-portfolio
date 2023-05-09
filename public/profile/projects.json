@@ -1,91 +1,56 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/RentalBravo.png",
-            "title": "Rental Bravo",
-            "bodyText": "- Developed a SPA to connect property owners and managers with tenants seeking to rent a property.\n -  Built Front-End UI by utilizing ReactJs, React-Bootstrap and leveraged Node.JS, Express, and RESTful routes to perform CRUD functionality and routing on Back-End. \n - Utilized JWT authentication and consumed RESTful APIs such as MapBox forward geocoding API to auto-load addresses when adding or searching for the listings. Also, utilized AWS S3Bucket for storing images.",
+            "image" : "images/projects/TCA.png",
+            "title": "Toronto Crime Analysis",
+            "bodyText": "- Build an interactive dashboard that displays charts, graphs and maps that examines different categories of crime for 158 neighborhoods in Toronto.\n - Capitalize available data and clean it using Python (Jupyter Notebook), load the data into a Database (PostgreSQL), connect to an API using Flask, and create different visualizations by leveraging leaflet.js, plotly.js, D3.js.  \n - Added Select2 JavaScript library that enhance the functionality of standard HTML select element and provides a user-friendly interface by selecting one or more options from a long list of items.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/vivek1999patel/project_4"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://rental-bravo.herokuapp.com/"
-                }
-            ],
-            "tags" : [
-                "React",
-                "NodeJS",
-                "Express",
-                "MongoDB"
-            ]
-        },
-        {
-            "image" : "images/projects/DjangoShop.png",
-            "title": "Django Shop",
-            "bodyText": "- Developed an E-commerce web app for small retail stores to have an online presence and also, connect with new customers and handle online orders to generate more revenue and acquire customers.\n - Utilized HTML5 and CSS framework Materialize to develop the front-end UI and Python and Django framework to implement the business logic on the back-end. Also, I leveraged PostgreSQL to store Data.\n - Leveraged AWS S3Bucket for storing images on the web server and deployed the app on Heroku.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/dacaroglu/DjangoShopCart"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://shop-sei.herokuapp.com/"
+                    "href": "https://github.com/AdamTuor/Project-3"
                 }
             ],
             "tags" : [
                 "Python",
-                "Django",
                 "PostgreSQL",
-                "Materialize",
-                "AWS",
-                "Heroku"
+                "API",
+                "Flask",
+                "HTML"
             ]
         },
         {
-            "image" : "images/projects/YourAccommodation.png",
-            "title": "YourAccommodation",
-            "bodyText": "- Developed a web app to connect property owners and managers with tenants seeking to rent a property. \n - Build Front-End UI by utilizing HTML5, CSS3, and JavaScript templating engine(EJS) and leveraging Node.JS, Express, and RESTful routes to perform CRUD functionality and routing on Back-End. \n -  Consumed RESTful APIs such as Google People API along with OAuth 2.0 to authenticate, authorize and allow user login, and also, used Imgur API for image uploading.",
+            "image" : "images/projects/ETL.png",
+            "title": "Crowdfunding ETL",
+            "bodyText": "- Building an ETL pipeline using Pythons, Pandas and different Python libraries and regular expressions to extract and transform the data into CSV files and create ERD Diagram and table schema and uploaded CSV file data into a PostgreSQL. \n - Leveraged Pandas, NumPy, json libraries and created DataFrame by exporting and transforming excel data with different types of data frames.\n - Utilized ERD to sketch the diagram and table schema to load the data in Database.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/vivek1999patel/youraccommodation"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://yraccommodation.herokuapp.com/"
+                    "href": "https://github.com/Aparmar48/Crowdfunding_ETL"
                 }
             ],
             "tags" : [
-                "HTML5",
-                "CSS3",
-                "NodeJS",
-                "Express",
-                "MongoDB",
-                "GitHub"
+                "ETL Pipeline",
+                "Python Dict",
+                "pgAdmin 4",
+                "PostgreSQL"
             ]
         },
         {
-            "image" : "images/projects/BlackJack.png",
-            "title": "BlackJack",
-            "bodyText": "- Developed browser based, most popular, and widely played casino banking game BlackJack. \n - Utilized HTML5, CSS3 to build user-friendly UI and implemented real game rules by leveraging JavaScript. Also, implemented Model-View-Controller(MVC) to navigate through the gameplay and render game rules. \n - Leveraged wire-framing tool Figma and Trello board to prepare wire-frames and manage project tasks.",
+            "image" : "images/projects/NBA.png",
+            "title": "NBA Players and Game Analysis",
+            "bodyText": "- Aggregated three data sets, cleaned and merged data by using python libraries in Jupyter Notebook. \n - generated statistics summary for different players and analyse player performance with different visualization charts and graphs with the help of Matplotlib. \n - Utilized Scatter and Box plots, Charts (Bar, Line, and Pie), which helps to compare different game patterns performed by players with the help of linear regression, correlation, aggregation, summary statistics.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/vivek1999patel/BlackJack"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://vivek1999patel.github.io/BlackJack/"
+                    "href": "https://github.com/Aparmar48/Project_group_10"
                 }
             ],
             "tags" : [
-                "HTML5",
-                "CSS3",
-                "JavaScript",
-                "GitHub"
+                "Pandas",
+                "NumPy",
+                "SciPy",
+                "Matplotlib",
+                "Seaborn"
             ]
         }
     ]

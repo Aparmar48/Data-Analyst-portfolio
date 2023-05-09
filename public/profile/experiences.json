@@ -1,27 +1,26 @@
 {
     "experiences": [
         {
-            "title": "Full-Stack Developer, Back-End Lead",
-            "subtitle": "Empowered Futures, Toronto",
-            "workType": "Part-Time",
-            "workDescription": [
-                "Participating and working in the designing, planning, execution, and development phases of web-application development along with the product manager, developers and board members to achieve the end-user product.",
-                "Utilizing and gaining hands-on experience in HTML5, Bootstrap, Express, ReactJs, Node.Js, and MongoDB.",
-                "Developing 5+ features as defined and scoped by planning and product development team of 20+ developers.",
-                "Participating and contributing to 20+ weekly code reviews to ensure the code quality, maintain industry standards, and receive mentoring from the senior Full-Stack developers. Also, identifying and fixing bugs."
-            ],
-            "dateText": "07/2022 – Present"
-        },
-        {
-            "title": "Technical Customer Support Advisor",
-            "subtitle": "24-7 Intouch Inc, Winnipeg",
+            "title": "In Home Sales Consultant",
+            "subtitle": "Shaw Communications Inc, Winnipeg, MB.",
             "workType": "Full-Time",
             "workDescription": [
-                "Provided first-line technical support to customers experiencing difficulties with hardware, operating systems, web application, and software installation through electronic communication.",
-                "Managed 20+ support tickets daily and achieved more than 95% success rate by utilizing analytical and problem-solving skills to isolate and resolve complex technical problems through appropriate troubleshooting methodology and ensured consistently more than 98% customer satisfaction. ",
-                "Trained 120+ new advisors and worked closely with Team Leaders, Managing Directors, and Quality Assurance Team to achieve the matrix target."
+                "Collaborate with Sales manager to develop and execute strategic plans that drive revenue growth and business goals, build strong customer relationships through consultative selling techniques.",
+                "Consistently exceed individual sales targets by 27%, achieving 127% of annual target, through effective pipeline management.",
+                "Coach new hires, provide product training and mentorship to sales team members, resulting a 20% increase in team performance, attend industry events and trade shows to meet potential clients to expand customer base.",
+                "Track and analyze accurate sales reports and provide insights, resulting in a 15% improvement in sales forecasting accuracy."
             ],
-            "dateText": "02/2021 – 06/2022"
+            "dateText": "10/2021 – Present"
+        },
+        {
+            "title": "Tax Preparer",
+            "subtitle": "Liberty Tax Services, Winnipeg, MB.",
+            "workType": "Part-Time",
+            "workDescription": [
+                "Prepared individual income tax returns and assisted the manager in preparing corporate tax returns, ensuring accuracy and completeness of financial information, and maintained organized records of clients financial documents and statements.",
+                "Communicated with clients, stakeholders, and Canada Revenue Agency (CRA) regarding tax processes and requirements, reviewed supporting documentation and responded to requests from colleagues and partners."
+            ],
+            "dateText": "01/2022 – 04/2022"
         }
     ]
 }
