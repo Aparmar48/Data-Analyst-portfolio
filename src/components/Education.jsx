@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useContext } from 'react';
+import React, { useEffect, useState, useCntext } from 'react';
 import { Chrono } from 'react-chrono';
 import { Container } from 'react-bootstrap';
 import PropTypes from 'prop-types';
@@ -10,7 +10,7 @@ import FallbackSpinner from './FallbackSpinner';
 import '../css/education.css';
 
 function Education(props) {
-  const { accentColor, chronoTheme } = theme;
+  const theme = useCntext(ThemeContext);
   const { header } = props;
   const [data, setData] = useState(null);
   const [width, setWidth] = useState('50vw');
